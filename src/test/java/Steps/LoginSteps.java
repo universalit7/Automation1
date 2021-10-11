@@ -1,12 +1,14 @@
 package Steps;
 
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
+
 
 public class LoginSteps {
     @io.cucumber.java.en.
             Given("user is on login page")
     public void userIsOnLoginPage() {
+        System.out.println("user is on login page");
+        System.out.println("teachers day");
     }
 
     @io.cucumber.java.en.
