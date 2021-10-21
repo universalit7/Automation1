@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println("This is commit from feature into master");
         
         System.out.println("this demo is for git rebase from intellig");
-        System.outt.println("this brand is intellig");
+        System.out.println("this brand is intellig");
     }
 }
